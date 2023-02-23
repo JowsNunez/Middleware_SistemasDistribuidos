@@ -1,0 +1,6 @@
+[submodule "TeacherSystem_SistemasD"]
+	path = TeacherSystem_SistemasD
+	url = https://github.com/JowsNunez/TeacherSystem_SistemasD.git
+[submodule "RegistrySchool_SistemasD"]
+	path = RegistrySchool_SistemasD
+	url = https://github.com/JowsNunez/RegistrySchool_SistemasD.git
